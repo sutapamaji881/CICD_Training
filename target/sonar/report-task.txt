@@ -1,0 +1,6 @@
+projectKey=MySampleProject
+serverUrl=http://10.245.128.167:9000
+serverVersion=8.7.0.41497
+dashboardUrl=http://10.245.128.167:9000/dashboard?id=MySampleProject
+ceTaskId=AXnlc7r6W9_lATTjKowX
+ceTaskUrl=http://10.245.128.167:9000/api/ce/task?id=AXnlc7r6W9_lATTjKowX
