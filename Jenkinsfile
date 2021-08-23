@@ -23,7 +23,7 @@ pipeline {
         stage('regression') {
           agent {
             node {
-              label 'JenkinsNode1'
+              label 'slave1'
             }
 
           }
